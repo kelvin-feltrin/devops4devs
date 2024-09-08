@@ -398,3 +398,8 @@ FodyWeavers.xsd
 *.sln.iml
 
 *.Identifier
+
+# Deployment files
+*.yaml
+*.tf
+terraform/
